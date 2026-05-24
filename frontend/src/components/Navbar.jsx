@@ -114,7 +114,7 @@ const Navbar = () => {
               <BookOpen className="h-6 w-6 text-white" />
             </div>
             <span className="font-bold text-xl text-gray-900 tracking-tight">
-              Class<span className="text-indigo-600">Web</span>
+              unique<span className="text-indigo-600">class</span>
             </span>
           </Link>
 
